@@ -126,5 +126,5 @@ This ERP Dashboard project followed a structured PM workflow to ensure transpare
 
 ##  Author
 **Lirong📌**  
-Project Management Trainee | Scrum Certified (PSM I)  
+Project Coordinator | Scrum Certified (PSM I)  
 Taipei, Taiwan
